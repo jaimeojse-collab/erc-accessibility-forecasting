@@ -4,9 +4,13 @@
   <a href="https://creativecommons.org/licenses/by/4.0/">
     <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="CC BY 4.0 License">
   </a>
+
+  <a href="https://doi.org/10.5281/zenodo.20451294">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20451294.svg" alt="DOI">
+  </a>
 </p>
 
-Minimal recoverability-constrained forecasting framework for operational accessibility deterioration.
+*Minimal recoverability-constrained forecasting framework for operational accessibility deterioration.*
 
 **Can future accessibility deterioration become operationally forecastable before explicit collapse?**
 
@@ -97,9 +101,13 @@ All analyses are designed to remain reproducible, modifiable, and falsifiable un
 
 ## Citation
 
-If you use this repository, please cite it using the citation metadata included in:
+If you use this repository, please cite:
 
-CITATION.cff
+> Ojeda, J. (2026). *ERC Accessibility Forecasting: A Recoverability-Constrained Computational Forecasting Note* (Version 1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20451294
+
+DOI:
+
+[https://doi.org/10.5281/zenodo.20451294](https://doi.org/10.5281/zenodo.20451294)
 
 GitHub citation support is enabled.
 
