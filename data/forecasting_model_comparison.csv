@@ -1,0 +1,5 @@
+model,roc_auc,interpretation
+Geometry only,0.4415082037408279,Poor forecastability
+Mean recoverability state,0.9302380958173574,Strong compressed-state signal
+Minimal operational model,0.9688023073629305,Strong operational forecastability
+All features,0.9713319157632495,Minimal gain beyond operational model

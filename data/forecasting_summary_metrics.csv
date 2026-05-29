@@ -1,0 +1,6 @@
+model,roc_auc
+geometry_only,0.4415082037408279
+mean_recoverability_state,0.9302380958173574
+minimal_operational_model,0.9688023073629305
+all_features,0.9713319157632495
+shuffle_control,0.4949028115817844
